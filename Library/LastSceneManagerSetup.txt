@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Nature_pixel_art_assets/Scenes/Nature_assets.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
